@@ -28,4 +28,4 @@ Este site foi desenvolvido utilizando os conhecimentos adquiridos no curso **Cod
 
 ---
 
-Este projeto foi uma ótima oportunidade para consolidar meu aprendizado no curso **CodBoost** e avançar no meu desenvolvimento como front-end. Estou empolgado para criar mais projetos incríveis! 😄
+Este projeto foi uma ótima oportunidade para consolidar meu aprendizado no curso **CodBoost** e avançar no meu desenvolvimento como front-end.
