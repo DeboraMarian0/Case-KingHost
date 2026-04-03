@@ -1,4 +1,4 @@
-# Projeto CodBoost 🚀
+# Projeto CodBoost
 
 Este site foi desenvolvido utilizando os conhecimentos adquiridos no curso **CodBoost**, da Hotmart. Durante o curso, aprendi a criar layouts modernos e responsivos, aplicando boas práticas de desenvolvimento web.
 
@@ -6,14 +6,14 @@ Este site foi desenvolvido utilizando os conhecimentos adquiridos no curso **Cod
 
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 - **HTML5**: Para a estruturação do conteúdo.
 - **CSS3**: Para estilização e design responsivo.
 - **JavaScript**: Para adicionar interatividade ao site.
 
 ---
 
-## ✨ O que aprendi
+## O que aprendi
 - Desenvolver layouts responsivos que se adaptam a diferentes dispositivos.
 - Estilizar componentes com atenção aos detalhes utilizando **CSS moderno**.
 - Incorporar interatividade ao site com **JavaScript**.
@@ -21,7 +21,7 @@ Este site foi desenvolvido utilizando os conhecimentos adquiridos no curso **Cod
 
 ---
 
-## 🚀 Próximos passos
+## Próximos passos
 - Aprimorar a interatividade utilizando bibliotecas JavaScript.
 - Adicionar mais animações e transições para melhorar a experiência do usuário.
 - Explorar frameworks como **TailwindCSS** ou **Bootstrap** para acelerar o desenvolvimento.
